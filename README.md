@@ -7,10 +7,10 @@
 ##
 
 <a href="https://github.com/cesaraugt1/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cesaraugt1&show_icons=true&theme=midnight-purple" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=cesaraugt1&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/cesaraugt1/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesaraugt1&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=midnight-purple" />
+  <img height=200 width=383 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesaraugt1&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=midnight-purple" />
 </a>
          
 ##
