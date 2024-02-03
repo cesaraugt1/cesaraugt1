@@ -1,7 +1,8 @@
  ### Olá! eu sou o Cesar Augusto 👋
  
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando HTML, CSS e JS
+- 💻 Skills: HTML, CSS e JS
+- 🌱 Estudando: ReactJs
 - 😄 Pronouns: ele/dele
 
 ##
